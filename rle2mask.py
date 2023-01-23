@@ -7,3 +7,9 @@ for i in filenames:
     img=cv2.imread(i)
     b=cv2.resize(img,(1600,256))
     cv2.imwrite(a,b)
+
+
+
+
+
+
